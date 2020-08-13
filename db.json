@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "persons": [
+   {
+        "id":1,
+        "firstName":"John Albert",
+        "lastName":"Canuto",
+        "birthday":"11-28-1994",
+        "age":"",
+        "emailAddress":"canutoalbert@gmail.com",
+        "mobileNumber":"09051245642",
+        "address":"Valenzuela",
+        "contactPerson":"Sya",
+        "contactPersonsPhoneNumber":"09876543210"
+    },
+	{
+        "id":2,
+        "firstName":"Albert",
+        "lastName":"Ito",
+        "birthday":"11-28-1994",
+        "age":"",
+        "emailAddress":"canutoalbert2@gmail.com",
+        "mobileNumber":"09051245643",
+        "address":"Valenzuela City",
+        "contactPerson":"Sya yon",
+        "contactPersonsPhoneNumber":"09876543211"
+    }
+  ]
 }
