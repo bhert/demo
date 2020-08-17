@@ -10,7 +10,7 @@
         "mobileNumber":"09051245642",
         "address":"Valenzuela",
         "contactPerson":"Sya",
-        "contactPersonsPhoneNumber":"09876543210"
+        "contactPersonsMobileNumber":"09876543210"
     },
 	{
         "id":2,
@@ -22,7 +22,7 @@
         "mobileNumber":"09051245643",
         "address":"Valenzuela City",
         "contactPerson":"Sya yon",
-        "contactPersonsPhoneNumber":"09876543211"
+        "contactPersonsMobileNumber":"09876543211"
     }
   ]
 }
